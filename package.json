@@ -1,0 +1,10 @@
+{
+  "name": "be.nihiilus.gunmenuvr",
+  "displayName": "gun menu for VR",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "this is gun ui for vr game",
+  "keywords": ["Script","Tool"],
+  "category": "Script",
+  "dependencies":{}
+}
